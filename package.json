@@ -1,0 +1,11 @@
+{
+  "name": "props-replace",
+  "version": "0.0.1",
+  "description": "Applies String.replace in every Object's prop that contains the substring. It can be shallow copied or full cloned.",
+  "main": "index.js",
+  "repository": "https://DREZZ3R@github.com/DREZZ3R/props-replace.git",
+  "author": "Lucas Gomes <lucas.bsg@hotmail.com>",
+  "license": "MIT",
+  "keywords": ["props", "props", "replace", "String.replace"],
+  "private": false
+}
