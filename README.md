@@ -1,5 +1,5 @@
 # props-replace
-Applies String.replace in every Object's prop that contains the substring. It can be shallow copied or full cloned.
+Applies String.replace in every Object's prop's name that contain the substring. It can be shallow copied or full cloned.
 
 ````javascript
 propsReplace(obj, searchValue, replaceValue, clone)
